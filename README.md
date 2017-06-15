@@ -8,6 +8,7 @@
   JunitTest：java程序，ppt演示中用到的Junit单元测试的程序代码
   PrimePath程序说明：word文件，给出pp_wxh.py的详细程序说明
   graph文件：word文件，根据pp_wxh.py程序中一个函数生成的一张图用于测试
+  Karnaugh Maps文件：word文件，课堂作业第二题
   
   
  
